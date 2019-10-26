@@ -1,0 +1,307 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+}
+.App {
+
+  text-align: center;
+
+}
+
+.container myform{
+  font-size: 12px;
+}
+
+
+
+.App-logo {
+
+  height: 40vmin;
+
+
+}
+
+
+
+.App-header {
+
+  background-color: #282c34;
+
+  min-height: 100vh;
+
+  display: flex;
+
+  flex-direction: column;
+
+  align-items: center;
+
+  justify-content: center;
+
+  font-size: calc(10px + 2vmin);
+
+  color: white;
+
+}
+
+
+
+.App-link {
+
+  color: #09d3ac;
+
+}
+
+
+
+.myform{
+
+  border: 1px solid #52525B;
+
+  background-color: #cccccc;
+  padding-left: 10px;
+  font-size: 12px;
+
+}
+
+
+
+.icons-align{
+
+  margin-top: 0px;
+
+  margin-left: -40px;
+  padding:  2px 0 0 30px;
+  
+  
+
+}
+
+.usericon-align{
+
+  margin-top: 5px;
+
+  margin-left: -25px;
+
+}
+  
+
+ 
+
+.main-container{
+
+  margin-top:40px;
+  margin-bottom: 40px;
+  box-shadow: 8px 10px 8px #52525B;
+  padding: 0px;
+
+}
+
+.contact-header{
+
+  background-color: #000033;
+
+  height: 26px;
+
+  color: white;
+
+  font-size: 12px;
+
+
+  margin: 0px;
+
+  padding: 5px;
+
+
+
+}
+
+
+
+.contact-toolbar{
+
+  background-color: #52525B;
+
+  height: 24px;
+
+  padding-left: 5px;
+
+  color: white;
+
+}
+
+
+
+.align-residence{
+
+  margin-top: 25px;
+  margin-left: 2.25rem;
+
+
+}
+
+.align-deceased{
+margin-top: 30px;
+
+}
+
+
+.custom-form-input{
+
+  margin-bottom: 0px!important;
+
+}
+
+
+
+.scroll-table{
+
+  max-height: 150px;
+
+  overflow-y: scroll;
+
+}
+
+
+
+.table td{
+
+  min-height: 49px;
+
+}
+
+
+
+.form-check-align{
+
+  margin-bottom: 20px;
+
+}
+
+thead{
+  background-color: rgba(0,0,0, 0.16);
+}
+
+
+input[checkbox]{
+  transform: scale(2); 
+ 
+}
+
+table input[type=checkbox]{
+  transform: scale(0.8); 
+ 
+}
+.form-check-input {
+  width: 20px !important;
+  height: 20px !important;
+  margin-top: .01rem;
+  margin-left: 20px;
+
+}
+
+.form-check-label {
+  margin-top: 5px;
+  margin-left: 2.25rem;
+
+}
+
+.form-check-labels{
+  margin-top: 2px;
+  margin-left: 50px;
+
+
+}
+
+.icons{
+  margin: 2px;
+  padding: 2px;
+  
+
+}
+
+.saveicons{
+  margin: 2px;
+  padding: 2px;
+ 
+  
+
+
+
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: #e9ecefc7;
+}
+
+
+.edit_ico {
+  margin: 6px;
+  padding: 3px;
+}
+
+/* form-title-bg color{
+
+   background-color: #000033;
+
+  height: 26px;
+
+  color: white;
+
+  font-size: 12px;
+  
+  Icons: #cccccc
+
+  Icon Mouse Over: #116600
+
+  margin: 0;
+}
+
+  form-options toolbar-bg color {
+
+    background-color: #52525B;
+
+  height: 24px;
+
+  color: white;
+
+  Text& Icons: #cccccc
+
+  }
+
+Form-Bg Color{
+  Form background: #cccccc
+  text headers: Black
+  TextBox Names: 333333
+  Text Box Values: Black
+  Seperators: 333333
+  fontsize: 11
+}
+
+Font standards {
+
+  Type: Arial 
+  Size: 11
+  Single Text Box Inner: White
+  Multiple Text box Inner: #ffcccc
+  Text Box Border: #333333
+}
+
+
+Form Borders {
+
+Form Border: Black 1px
+Form Margin Top: 40px
+Form Marigin Bottom: 40px
+Style: Drop shadow
+
+
+   */
+
+   .form-check-align-small{
+     margin-left: 10px;
+   }
+   .form-check-align-small-thead{
+    padding-bottom: 15px;
+    padding-left: 5px;
+    margin-right: 20px;
+   }
